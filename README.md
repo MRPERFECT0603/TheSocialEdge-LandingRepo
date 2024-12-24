@@ -8,8 +8,6 @@ Welcome to **TheSocialEdge**! This is the central hub for the **frontend** and *
 2. [Backend Repository](#backend-repository)
 3. [About TheSocialEdge](#about-thesocialedge)
 4. [Technologies Used](#technologies-used)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Frontend Repository
 
